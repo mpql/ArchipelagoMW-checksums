@@ -1,7 +1,7 @@
-; ROM Checksums for use with Archipelago MultiWorld
-; Compiled by Mopsy / mpql
-; Sun October 15, 2022 8:49 AM
-; Update this file @ https://github.com/mpql/ArchipelagoMW-checksums
+# ROM Checksums for use with Archipelago MultiWorld
+# Compiled by Mopsy / mpql
+# Sun October 15, 2022 8:49 AM
+# Update this file @ https://github.com/mpql/ArchipelagoMW-checksums
 
 157bddb7192754a45372be196797f284 *ADVNTURE.bin
 120abf304f0c40fe059f6a192ed4f947 *Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc
@@ -20,4 +20,4 @@ cdd3c8c37322978ca8669b34bc89c804 *Super Mario World (USA).sfc
 03a63945398191337e896e5771f77173 *Zelda no Densetsu - Kamigami no Triforce (Japan).sfc
 d4bf9e7bcf9a48da53785d2ae7bc4270 *Zillion (UE) [!].sms
 05f0f3ebacbc8df9243b6148ffe4792f *ZOOTDEC.z64
-; 17 files hashed.
+# 17 files hashed.
