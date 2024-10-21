@@ -1,6 +1,5 @@
 # ROM Checksums for use with Archipelago MultiWorld
-# Compiled by Mopsy / mpql
-# Sun October 15, 2022 8:49 AM
+# Compiled by Mopsy / mpql October 21, 2024
 # Update this file @ https://github.com/mpql/ArchipelagoMW-checksums
 
 157bddb7192754a45372be196797f284 *ADVNTURE.bin
@@ -11,13 +10,15 @@ aa3911f5d5598e19e0183e15b6719c36 *Legend of Zelda, The - Ocarina of Time (U) (V1
 5bd1fe107bf8106b2ab6650abecd54d6 *Legend of Zelda, The - Ocarina of Time (U) (V1.0) [!].z64
 337bd6f1a1163df31bf2633665589ab0 *Legend of Zelda, The (U) (PRG0) [!].nes
 6efc477d6203ed2b3b9133c1cd9e9c5d *Lufia II - Rise of the Sinistrals (USA).sfc
+4B1A5897D89D9E74EC7F630EEFDFD435 *Mario & Luigi - Superstar Saga (U) [!].gba
 6fe31df0144759b34ad666badaacc442 *Mega Man Battle Network 3 - Blue Version (USA).gba
+605B89B67018ABCEA91E693A4DD25BE3 *Pokemon - Emerald Version (USA, Europe).gba
 50927e843568814f7ed45ec4f944bd8b *Pokemon Blue (UE) [S][!].gb
 3d45c1ee9abd5738df46d2bdda8b57dc *Pokemon Red (UE) [S][!].gb
 6e9c94511d04fac6e0a1e582c170be3a *Secret of Evermore (USA).sfc
 cdd3c8c37322978ca8669b34bc89c804 *Super Mario World (USA).sfc
 21f3e98df4780ee1c667b84e57d88675 *Super Metroid (JU).sfc
+B8A7C976B28172995FE9E465D654297A *Yu-Gi-Oh! - Ultimate Masters 2006 (U).gba
 03a63945398191337e896e5771f77173 *Zelda no Densetsu - Kamigami no Triforce (Japan).sfc
 d4bf9e7bcf9a48da53785d2ae7bc4270 *Zillion (UE) [!].sms
 05f0f3ebacbc8df9243b6148ffe4792f *ZOOTDEC.z64
-# 17 files hashed.
